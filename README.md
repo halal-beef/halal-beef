@@ -9,3 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=halal-beef&show_icons=true" />
 </picture>
+
+### Contact Me
+
+[Telegram](https://t.me/halal_beef)
