@@ -9,3 +9,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=halal-beef&show_icons=true" />
 </picture>
+
+feel free to check out [my blog](https://halal-beef.github.io/steakhouse/) too lol
